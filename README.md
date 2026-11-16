@@ -18,10 +18,3 @@ A console-based Java application that stores student records and marks, calculat
 
 - Java JDK 8 or later
 - Terminal / Command Prompt, or an IDE such as Eclipse or IntelliJ IDEA
-
-2. Show the two Java classes and explain their responsibilities.
-3. Run the application and add a student.
-4. Add marks and show the individual report.
-5. Show the all-student table and class summary.
-6. Demonstrate invalid mark/input validation.
-7. Share the GitHub repository link in the LinkedIn post.
